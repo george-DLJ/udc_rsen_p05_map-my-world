@@ -8,8 +8,7 @@ RTAB-Map (Real-Time Appearance-Based Mapping) is a popular solution for SLAM to 
 
 For this project we will be using the rtabmap_ros package, which is a ROS wrapper (API) for interacting with RTAB-Map. Keep this in mind when looking at the relative documentation.
 
-Links:
-* ROS Wiki (http://wiki.ros.org/rtabmap_ros). 
+
 
 This project tasks: 
 1. You will develop your own package to interface with the rtabmap_ros package.
@@ -17,3 +16,5 @@ This project tasks:
 3. You will ensure that all files are in the appropriate places, all links are properly connected, naming is properly setup and topics are correctly mapped. Furthermore you will need to generate the appropriate launch files to launch the robot and map its surrounding environment.
 4. When your robot is launched you will teleop around the room to generate a proper map of the environment.
 
+Links:
+* ROS Wiki (http://wiki.ros.org/rtabmap_ros). 
