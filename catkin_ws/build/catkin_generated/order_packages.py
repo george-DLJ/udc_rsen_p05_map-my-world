@@ -1,5 +1,5 @@
 # generated from catkin/cmake/template/order_packages.context.py.in
-source_root_dir = "/home/workspace/udc_rsen_p04_where-am-i/catkin_ws"
+source_root_dir = "/home/workspace/udc_rsen_p05_map-my-world/catkin_ws"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/opt/ros/kinetic".split(';') if "/opt/ros/kinetic" != "" else []
+underlay_workspaces = "/home/workspace/udc_rsen_p05_map-my-world/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/workspace/udc_rsen_p05_map-my-world/catkin_ws/devel;/opt/ros/kinetic" != "" else []
